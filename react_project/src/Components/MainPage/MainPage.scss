@@ -1,0 +1,12 @@
+.mainPage {
+  margin: 30px;
+  width: calc(100% - 60px);
+  height: calc(100% - 60px);
+
+  display: grid;
+
+  grid-template-rows: calc(20% - 20px) calc(20% - 20px) calc(60% - 20px);
+  grid-template-columns: calc(30% - 15px) calc(70% - 15px);
+
+  grid-gap: 30px;
+}

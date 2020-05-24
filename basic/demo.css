@@ -1,0 +1,41 @@
+table {
+  width: 50%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 15px;
+  text-align: left;
+}
+
+h2 {
+  background-color: red;
+}
+
+.headingGroup {
+  background-color: blue;
+}
+
+#grey {
+  background-color: purple;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+button {
+  border-style: solid;
+}
+.group1 {
+  background-color: red;
+}
+#someId {
+  margin-top: 100px;
+}
