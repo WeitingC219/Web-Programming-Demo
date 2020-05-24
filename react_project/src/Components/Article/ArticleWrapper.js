@@ -1,5 +1,6 @@
 import React from 'react';
 import Article from './Article';
+// import axios from 'axios';
 import './ArticleWrapper.scss';
 
 class ArticleWrapper extends React.Component {
